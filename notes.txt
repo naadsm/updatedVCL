@@ -1,0 +1,2 @@
+Original path for source code: C:\Program Files\Borland\Delphi7\Source\Vcl
+Original library path: C:\Program Files\Borland\Delphi7\Lib 
